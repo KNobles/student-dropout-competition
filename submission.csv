@@ -43,7 +43,7 @@ Id,Category
 3973,Graduate
 2087,Graduate
 2259,Graduate
-3245,Graduate
+3245,Dropout
 2116,Graduate
 2249,Graduate
 3881,Graduate
@@ -62,7 +62,7 @@ Id,Category
 603,Graduate
 3553,Graduate
 1382,Graduate
-2952,Dropout
+2952,Enrolled
 467,Graduate
 1091,Dropout
 3745,Dropout
@@ -98,7 +98,7 @@ Id,Category
 2960,Graduate
 1562,Graduate
 3876,Graduate
-328,Graduate
+328,Enrolled
 2755,Graduate
 2626,Graduate
 2025,Graduate
@@ -198,7 +198,7 @@ Id,Category
 3981,Graduate
 3110,Dropout
 4166,Graduate
-2643,Enrolled
+2643,Dropout
 1151,Dropout
 3194,Graduate
 3315,Graduate
@@ -219,7 +219,7 @@ Id,Category
 3300,Graduate
 2076,Graduate
 2126,Graduate
-2859,Enrolled
+2859,Graduate
 3498,Graduate
 3797,Dropout
 4157,Dropout
@@ -266,7 +266,7 @@ Id,Category
 2535,Dropout
 2884,Graduate
 1583,Graduate
-4406,Dropout
+4406,Enrolled
 522,Graduate
 2176,Graduate
 1968,Dropout
@@ -282,14 +282,14 @@ Id,Category
 3680,Graduate
 1716,Graduate
 3533,Dropout
-1413,Enrolled
+1413,Graduate
 943,Dropout
 498,Graduate
 2459,Graduate
 4304,Dropout
 2277,Enrolled
 2692,Graduate
-535,Enrolled
+535,Graduate
 3491,Dropout
 1671,Graduate
 2730,Graduate
@@ -358,14 +358,14 @@ Id,Category
 595,Graduate
 821,Graduate
 1785,Enrolled
-2233,Enrolled
+2233,Dropout
 1776,Graduate
 3143,Graduate
 4003,Graduate
 3182,Graduate
 2524,Dropout
 2333,Graduate
-1335,Graduate
+1335,Enrolled
 3767,Dropout
 1871,Dropout
 3344,Dropout
@@ -381,7 +381,7 @@ Id,Category
 3746,Graduate
 3096,Graduate
 4099,Dropout
-638,Graduate
+638,Enrolled
 3679,Graduate
 1663,Graduate
 1880,Graduate
@@ -523,7 +523,7 @@ Id,Category
 2134,Graduate
 2398,Graduate
 3588,Graduate
-3684,Enrolled
+3684,Dropout
 2385,Graduate
 3012,Graduate
 637,Enrolled
@@ -543,7 +543,7 @@ Id,Category
 225,Graduate
 4011,Enrolled
 2831,Graduate
-2723,Enrolled
+2723,Dropout
 1019,Graduate
 3170,Graduate
 3280,Graduate
